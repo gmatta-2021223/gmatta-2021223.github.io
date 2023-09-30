@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Doctor';
+    src: url('../fonts/Doctor Glitch.otf') format('truetype');
+}
+
+.background-navbar1{
+    background-color: transparent;
+    transition: 0.5s;
+    box-shadow: none;
+}
+
+.background-navbar2{
+    background-color: #441281;
+    transition: 0.5s;
+    box-shadow: none;
+}
+
+.font1{
+    font-family: Doctor;
+}
